@@ -1,3 +1,4 @@
+Projet fait à 100% AI en 2 itérations donc evidemment, le design du jeu n'est pas au rendez vous ;)
 <div align="center">
   <img src="assets/icon.svg" width="72" alt="Blason de Valbrume">
   <h1>Les Clefs de Valbrume</h1>
