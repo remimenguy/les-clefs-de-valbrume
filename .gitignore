@@ -1,0 +1,12 @@
+.godot/
+.DS_Store
+*.blend[0-9]*
+/build/
+/Untitled*.blend
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.p12
